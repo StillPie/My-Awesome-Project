@@ -1,1 +1,1 @@
-This is my-awesome-first-project
+This is my-first-awesome-project
